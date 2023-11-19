@@ -1,0 +1,5 @@
+InterfazInventarioRipley
+Producto
+InterfazInventarioRipley$2
+InterfazInventarioRipley$1
+Inventario
